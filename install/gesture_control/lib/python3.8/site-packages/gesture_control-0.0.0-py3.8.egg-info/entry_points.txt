@@ -1,0 +1,3 @@
+[console_scripts]
+gesture_publisher = gesture_control.gesture_publisher:main
+

@@ -1,0 +1,34 @@
+[0.945s] Invoking command in '/home/jakob/Coding/gesture_ws_ros2/src/gesture_control': PYTHONPATH=/home/jakob/Coding/gesture_ws_ros2/build/gesture_control/prefix_override:/home/jakob/Coding/gesture_ws_ros2/install/gesture_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gesture_control build --build-base /home/jakob/Coding/gesture_ws_ros2/build/gesture_control/build install --record /home/jakob/Coding/gesture_ws_ros2/build/gesture_control/install.log --install-scripts $base/lib/gesture_control --single-version-externally-managed
+[1.147s] running egg_info
+[1.148s] creating ../../build/gesture_control/gesture_control.egg-info
+[1.148s] writing ../../build/gesture_control/gesture_control.egg-info/PKG-INFO
+[1.148s] writing dependency_links to ../../build/gesture_control/gesture_control.egg-info/dependency_links.txt
+[1.148s] writing entry points to ../../build/gesture_control/gesture_control.egg-info/entry_points.txt
+[1.148s] writing requirements to ../../build/gesture_control/gesture_control.egg-info/requires.txt
+[1.149s] writing top-level names to ../../build/gesture_control/gesture_control.egg-info/top_level.txt
+[1.149s] writing manifest file '../../build/gesture_control/gesture_control.egg-info/SOURCES.txt'
+[1.175s] reading manifest file '../../build/gesture_control/gesture_control.egg-info/SOURCES.txt'
+[1.175s] writing manifest file '../../build/gesture_control/gesture_control.egg-info/SOURCES.txt'
+[1.175s] running build
+[1.175s] running build_py
+[1.176s] creating /home/jakob/Coding/gesture_ws_ros2/build/gesture_control/build
+[1.176s] creating /home/jakob/Coding/gesture_ws_ros2/build/gesture_control/build/lib
+[1.176s] creating /home/jakob/Coding/gesture_ws_ros2/build/gesture_control/build/lib/gesture_control
+[1.176s] copying gesture_control/__init__.py -> /home/jakob/Coding/gesture_ws_ros2/build/gesture_control/build/lib/gesture_control
+[1.176s] running install
+[1.176s] running install_lib
+[1.177s] creating /home/jakob/Coding/gesture_ws_ros2/install/gesture_control/lib/python3.8/site-packages/gesture_control
+[1.177s] copying /home/jakob/Coding/gesture_ws_ros2/build/gesture_control/build/lib/gesture_control/__init__.py -> /home/jakob/Coding/gesture_ws_ros2/install/gesture_control/lib/python3.8/site-packages/gesture_control
+[1.177s] byte-compiling /home/jakob/Coding/gesture_ws_ros2/install/gesture_control/lib/python3.8/site-packages/gesture_control/__init__.py to __init__.cpython-38.pyc
+[1.178s] running install_data
+[1.179s] creating /home/jakob/Coding/gesture_ws_ros2/install/gesture_control/share/ament_index
+[1.179s] creating /home/jakob/Coding/gesture_ws_ros2/install/gesture_control/share/ament_index/resource_index
+[1.179s] creating /home/jakob/Coding/gesture_ws_ros2/install/gesture_control/share/ament_index/resource_index/packages
+[1.179s] copying resource/gesture_control -> /home/jakob/Coding/gesture_ws_ros2/install/gesture_control/share/ament_index/resource_index/packages
+[1.179s] copying package.xml -> /home/jakob/Coding/gesture_ws_ros2/install/gesture_control/share/gesture_control
+[1.179s] running install_egg_info
+[1.180s] Copying ../../build/gesture_control/gesture_control.egg-info to /home/jakob/Coding/gesture_ws_ros2/install/gesture_control/lib/python3.8/site-packages/gesture_control-0.0.0-py3.8.egg-info
+[1.181s] running install_scripts
+[1.193s] Installing gesture_publisher script to /home/jakob/Coding/gesture_ws_ros2/install/gesture_control/lib/gesture_control
+[1.193s] writing list of installed files to '/home/jakob/Coding/gesture_ws_ros2/build/gesture_control/install.log'
+[1.220s] Invoked command in '/home/jakob/Coding/gesture_ws_ros2/src/gesture_control' returned '0': PYTHONPATH=/home/jakob/Coding/gesture_ws_ros2/build/gesture_control/prefix_override:/home/jakob/Coding/gesture_ws_ros2/install/gesture_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gesture_control build --build-base /home/jakob/Coding/gesture_ws_ros2/build/gesture_control/build install --record /home/jakob/Coding/gesture_ws_ros2/build/gesture_control/install.log --install-scripts $base/lib/gesture_control --single-version-externally-managed
